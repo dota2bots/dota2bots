@@ -1,5 +1,5 @@
 # dota2bots
-Library of Dota 2 Bots scripts
+Library of Dota 2 Bot scripts
 
 ## Intention
 This repo exists to give people a shared codebase for their custom bot scripts. Fork this repo to develop some scripts yourself or push your new scripts or changes to existing scripts against it to share your work.
