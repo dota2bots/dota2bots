@@ -1,6 +1,3 @@
---Storing all the useful functions here. To use this this file needs be required like this:
---require('bot_util')
-
 -- Looks for an item in the inventory, and if wanted in backpack or stash.
 -- Usage: local item = npcBot:GetItemByName("item_clarity",false,false)
 function CDOTA_Bot_Script:GetItemByName(itemName,bBackpack,bStash)
